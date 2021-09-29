@@ -354,6 +354,9 @@ a:hover {
     color: #d9534f;
     border-radius: 5px;
 }
+.project .discription a:hover {
+    color: #d9544fb0;
+}
 .certificate {
     height: 100vh;
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
